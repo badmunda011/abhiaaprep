@@ -1,17 +1,17 @@
 <h2 align="center">
-    ──「 Sophia X ᴍᴜsɪᴄ 」──
+    ──「 🍹𝆺𝅥⃝🌸 ‌⃪‌ ᷟ🦋𝑻𝒐𝒙𝒊𝒄 ᥫ᭡𓆩𝑮𝒊𝒓𝒍 𓆪🦋☕︎ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://graph.org/file/40ce67d14a3f5a7136090.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT/AMMusic/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusic/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/badmunda011/abhiaaprep"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/badmunda011/abhiaaprep/AMMusic/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/badmunda011/abhiaaprep/AMMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AMMusic/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/badmunda011/abhiaaprep/AMMusic/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ## Features Of Shizuka And Commands ❤️
@@ -111,13 +111,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/AMMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/badmunda011/abhiaaprep"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AbhiModszYT/AMMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/badmunda011/abhiaaprep)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -129,7 +129,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AMMusic && cd AMMusic`
+`git clone https://github.com/badmunda011/abhiaaprep`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -181,7 +181,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AMMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMMusic&theme=chartreuse-dark"></a>
+<a href="https://https://github.com/badmunda011/abhiaaprep/AMMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMMusic&theme=chartreuse-dark"></a>
 
 
 
